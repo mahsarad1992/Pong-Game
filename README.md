@@ -1,2 +1,2 @@
 # Pong-Game
-This is a python implementation of Pong game
+This is a python implementation of Pong game.
